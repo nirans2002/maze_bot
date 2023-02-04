@@ -1,0 +1,35 @@
+[0.657s] Invoking command in '/home/niran/Niran/mazeBot/path_planning_ws/src/maze_bot': PYTHONPATH=/home/niran/Niran/mazeBot/path_planning_ws/build/maze_bot/prefix_override:/home/niran/Niran/mazeBot/path_planning_ws/install/maze_bot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/maze_bot build --build-base /home/niran/Niran/mazeBot/path_planning_ws/build/maze_bot/build install --record /home/niran/Niran/mazeBot/path_planning_ws/build/maze_bot/install.log --single-version-externally-managed
+[0.863s] running egg_info
+[0.864s] creating ../../build/maze_bot/maze_bot.egg-info
+[0.864s] writing ../../build/maze_bot/maze_bot.egg-info/PKG-INFO
+[0.864s] writing dependency_links to ../../build/maze_bot/maze_bot.egg-info/dependency_links.txt
+[0.864s] writing entry points to ../../build/maze_bot/maze_bot.egg-info/entry_points.txt
+[0.864s] writing requirements to ../../build/maze_bot/maze_bot.egg-info/requires.txt
+[0.865s] writing top-level names to ../../build/maze_bot/maze_bot.egg-info/top_level.txt
+[0.865s] writing manifest file '../../build/maze_bot/maze_bot.egg-info/SOURCES.txt'
+[0.866s] reading manifest file '../../build/maze_bot/maze_bot.egg-info/SOURCES.txt'
+[0.866s] writing manifest file '../../build/maze_bot/maze_bot.egg-info/SOURCES.txt'
+[0.867s] running build
+[0.867s] running build_py
+[0.867s] creating /home/niran/Niran/mazeBot/path_planning_ws/build/maze_bot/build
+[0.867s] creating /home/niran/Niran/mazeBot/path_planning_ws/build/maze_bot/build/lib
+[0.867s] creating /home/niran/Niran/mazeBot/path_planning_ws/build/maze_bot/build/lib/maze_bot
+[0.867s] copying maze_bot/__init__.py -> /home/niran/Niran/mazeBot/path_planning_ws/build/maze_bot/build/lib/maze_bot
+[0.867s] running install
+[0.867s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.868s]   warnings.warn(
+[0.868s] running install_lib
+[0.868s] creating /home/niran/Niran/mazeBot/path_planning_ws/install/maze_bot/lib/python3.10/site-packages/maze_bot
+[0.868s] copying /home/niran/Niran/mazeBot/path_planning_ws/build/maze_bot/build/lib/maze_bot/__init__.py -> /home/niran/Niran/mazeBot/path_planning_ws/install/maze_bot/lib/python3.10/site-packages/maze_bot
+[0.868s] byte-compiling /home/niran/Niran/mazeBot/path_planning_ws/install/maze_bot/lib/python3.10/site-packages/maze_bot/__init__.py to __init__.cpython-310.pyc
+[0.868s] running install_data
+[0.869s] creating /home/niran/Niran/mazeBot/path_planning_ws/install/maze_bot/share/ament_index
+[0.869s] creating /home/niran/Niran/mazeBot/path_planning_ws/install/maze_bot/share/ament_index/resource_index
+[0.869s] creating /home/niran/Niran/mazeBot/path_planning_ws/install/maze_bot/share/ament_index/resource_index/packages
+[0.869s] copying resource/maze_bot -> /home/niran/Niran/mazeBot/path_planning_ws/install/maze_bot/share/ament_index/resource_index/packages
+[0.869s] copying package.xml -> /home/niran/Niran/mazeBot/path_planning_ws/install/maze_bot/share/maze_bot
+[0.869s] running install_egg_info
+[0.871s] Copying ../../build/maze_bot/maze_bot.egg-info to /home/niran/Niran/mazeBot/path_planning_ws/install/maze_bot/lib/python3.10/site-packages/maze_bot-0.0.0-py3.10.egg-info
+[0.872s] running install_scripts
+[0.892s] writing list of installed files to '/home/niran/Niran/mazeBot/path_planning_ws/build/maze_bot/install.log'
+[0.976s] Invoked command in '/home/niran/Niran/mazeBot/path_planning_ws/src/maze_bot' returned '0': PYTHONPATH=/home/niran/Niran/mazeBot/path_planning_ws/build/maze_bot/prefix_override:/home/niran/Niran/mazeBot/path_planning_ws/install/maze_bot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/maze_bot build --build-base /home/niran/Niran/mazeBot/path_planning_ws/build/maze_bot/build install --record /home/niran/Niran/mazeBot/path_planning_ws/build/maze_bot/install.log --single-version-externally-managed
