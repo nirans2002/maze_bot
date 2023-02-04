@@ -8,7 +8,10 @@ setup.py
 ../../build/maze_bot/maze_bot.egg-info/requires.txt
 ../../build/maze_bot/maze_bot.egg-info/top_level.txt
 ../../build/maze_bot/maze_bot.egg-info/zip-safe
+launch/rviz.launch.py
 maze_bot/__init__.py
+maze_bot/listener.py
+maze_bot/talker.py
 meshes/maze_bot.stl
 meshes/wheel.stl
 resource/maze_bot
