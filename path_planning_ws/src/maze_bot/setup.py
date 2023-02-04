@@ -13,6 +13,7 @@ setup(
             ['resource/' + package_name]),
         ('share/' + package_name, ['package.xml']),
         (os.path.join('share',package_name,'urdf'),glob('urdf/*')),
+        (os.path.join('share',package_name,'meshes'),glob('meshes/*')),
     ],
 
     install_requires=['setuptools'],
@@ -24,6 +25,8 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
+            'talker_node = maze_bot.talker:main'
+            'subscriber_node = maze_bot.listener:main'
         ],
     },
 )

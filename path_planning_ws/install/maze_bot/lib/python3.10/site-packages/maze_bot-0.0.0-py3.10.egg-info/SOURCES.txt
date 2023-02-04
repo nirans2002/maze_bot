@@ -9,7 +9,10 @@ setup.py
 ../../build/maze_bot/maze_bot.egg-info/top_level.txt
 ../../build/maze_bot/maze_bot.egg-info/zip-safe
 maze_bot/__init__.py
+meshes/maze_bot.stl
+meshes/wheel.stl
 resource/maze_bot
 test/test_copyright.py
 test/test_flake8.py
 test/test_pep257.py
+urdf/maze_bot.urdf
